@@ -2,7 +2,7 @@ function pairwise( arr, arg ) {
     var pairs = [ ];
 
     for( var element in arr ) {
-        var temp_element = arr[ a ];
+        var temp_element = arr[ element ];
 
         for( var index = 1; index < arr.length; index++ ) {
             if( temp_element + arr[ index ] === arg && index > element && pairs.indexOf( +element ) === -1 && pairs.indexOf( +index ) === -1 ) {
