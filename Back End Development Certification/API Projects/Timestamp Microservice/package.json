@@ -1,0 +1,13 @@
+{
+    "name": "basejump-timestamp-microservice",
+    "version": "1.0.0",
+    "description": "Backend Development Basejump from FreeCodeCamp",
+    "main": "server.js",
+    "repository": "",
+    "author": "Mike Hatter <mike@mikehatter.com>",
+    "dependencies": {
+        "body-parser": "^1.14.2",
+        "express": "^4.13.3",
+        "moment": "^2.10.6"
+    }
+}
