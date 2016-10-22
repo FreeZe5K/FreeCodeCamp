@@ -1,0 +1,14 @@
+{
+    "name": "image-search-abstraction-layer",
+    "version": "1.0.0",
+    "description": "Backend Development Basejump from FreeCodeCamp",
+    "main": "app.js",
+    "repository": "",
+    "author": "Mike Hatter <mike@mikehatter.com>",
+    "dependencies": {
+        "express": "^4.14.0",
+        "node-bing-api": "^2.4.1",
+        "sanitize-caja": "^0.1.4",
+        "url": "^0.11.0"
+    }
+}
